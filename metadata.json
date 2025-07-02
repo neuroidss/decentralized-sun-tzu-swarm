@@ -1,0 +1,6 @@
+{
+  "name": "Decentralized Sun Tzu Swarm",
+  "description": "A web application that simulates a fully decentralized drone swarm operating based on the principles of Sun Tzu's 'The Art of War'. Each drone acts as an autonomous agent, collectively making strategic decisions using the Gemini API without a central commander.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
