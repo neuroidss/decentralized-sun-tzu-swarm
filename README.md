@@ -1,4 +1,6 @@
-![decentralized-sun-tzu-swarm](https://github.com/neuroidss/decentralized-sun-tzu-swarm/blob/main/Screenshot%20from%202025-07-03%2002-15-41.png?raw=true)
+![decentralized-sun-tzu-swarm Qwen3-0.8b](https://github.com/neuroidss/decentralized-sun-tzu-swarm/blob/main/Screenshot%20from%202025-07-03%2002-15-41.png?raw=true)
+![decentralized-sun-tzu-swarm Gemma 3n e4b](https://github.com/neuroidss/decentralized-sun-tzu-swarm/blob/main/Screenshot%20from%202025-07-03%2003-04-10.png?raw=true)
+
 
 # Run and deploy your AI Studio app
 
